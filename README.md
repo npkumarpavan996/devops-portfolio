@@ -36,6 +36,6 @@ I am a DevOps Engineer with interest in automation, cloud, and CI/CD. I focus on
 - Currently learning Kubernetes and AWS advanced services  
 
 ## 📞 Contact  
-- *Email:* yourname@email.com  
+- *Email:* saipavan7777@email.com  
 - *LinkedIn:* [linkedin.com/in/yourname](#)  
 - *GitHub:* [github.com/yourname](#)
